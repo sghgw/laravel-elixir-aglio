@@ -16,12 +16,12 @@
   "author": "João Machado",
   "license": "MIT",
   "dependencies": {
-    "gulp-aglio": "0.0.7",
+    "gulp-aglio": "0.0.10",
     "gulp-notify": "^2.2.0",
     "gulp-rename": "^1.2.2",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
-    "laravel-elixir": "^3.0.0"
+    "laravel-elixir": "^5.0.0"
   }
 }
